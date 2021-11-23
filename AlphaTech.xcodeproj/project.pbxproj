@@ -14,6 +14,10 @@
 		71AC34F4274D6F0A00E57CC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71AC34F3274D6F0A00E57CC5 /* Assets.xcassets */; };
 		71AC34F7274D6F0A00E57CC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71AC34F5274D6F0A00E57CC5 /* LaunchScreen.storyboard */; };
 		71AC34FF274D6F2200E57CC5 /* Alpha TECH.png in Resources */ = {isa = PBXBuildFile; fileRef = 71AC34FE274D6F2200E57CC5 /* Alpha TECH.png */; };
+		71AC3504274D755500E57CC5 /* Contato.png in Resources */ = {isa = PBXBuildFile; fileRef = 71AC3500274D755500E57CC5 /* Contato.png */; };
+		71AC3505274D755500E57CC5 /* Servicos.png in Resources */ = {isa = PBXBuildFile; fileRef = 71AC3501274D755500E57CC5 /* Servicos.png */; };
+		71AC3507274D755500E57CC5 /* Clientes.png in Resources */ = {isa = PBXBuildFile; fileRef = 71AC3503274D755500E57CC5 /* Clientes.png */; };
+		71AC3509274D77CF00E57CC5 /* Empresa.png in Resources */ = {isa = PBXBuildFile; fileRef = 71AC3508274D77CF00E57CC5 /* Empresa.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		71AC34F6274D6F0A00E57CC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71AC34F8274D6F0A00E57CC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71AC34FE274D6F2200E57CC5 /* Alpha TECH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Alpha TECH.png"; sourceTree = "<group>"; };
+		71AC3500274D755500E57CC5 /* Contato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Contato.png; sourceTree = "<group>"; };
+		71AC3501274D755500E57CC5 /* Servicos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Servicos.png; sourceTree = "<group>"; };
+		71AC3503274D755500E57CC5 /* Clientes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Clientes.png; sourceTree = "<group>"; };
+		71AC3508274D77CF00E57CC5 /* Empresa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Empresa.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 			isa = PBXGroup;
 			children = (
 				71AC34FE274D6F2200E57CC5 /* Alpha TECH.png */,
+				71AC3503274D755500E57CC5 /* Clientes.png */,
+				71AC3500274D755500E57CC5 /* Contato.png */,
+				71AC3508274D77CF00E57CC5 /* Empresa.png */,
+				71AC3501274D755500E57CC5 /* Servicos.png */,
 				71AC34EA274D6F0800E57CC5 /* AppDelegate.swift */,
 				71AC34EC274D6F0800E57CC5 /* SceneDelegate.swift */,
 				71AC34EE274D6F0800E57CC5 /* ViewController.swift */,
@@ -129,8 +141,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				71AC34F7274D6F0A00E57CC5 /* LaunchScreen.storyboard in Resources */,
+				71AC3505274D755500E57CC5 /* Servicos.png in Resources */,
 				71AC34F4274D6F0A00E57CC5 /* Assets.xcassets in Resources */,
+				71AC3509274D77CF00E57CC5 /* Empresa.png in Resources */,
 				71AC34F2274D6F0800E57CC5 /* Main.storyboard in Resources */,
+				71AC3504274D755500E57CC5 /* Contato.png in Resources */,
+				71AC3507274D755500E57CC5 /* Clientes.png in Resources */,
 				71AC34FF274D6F2200E57CC5 /* Alpha TECH.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
